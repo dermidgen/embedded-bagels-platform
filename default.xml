@@ -2,7 +2,7 @@
 <manifest>
   <remote fetch="https://github.com" name="github"/>
   <remote fetch="git://git.openembedded.org" name="oe"/>
-  <remote fetch="http://git.yoctoproject.org/poky" name="poky"/>
+  <remote fetch="http://git.yoctoproject.org/git" name="poky"/>
   <remote fetch="ssh://git@github.com/" name="github_private"/>
   
   <default revision="master" sync-j="4"/>
