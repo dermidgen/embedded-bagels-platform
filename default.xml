@@ -8,6 +8,7 @@
   <default revision="master" sync-j="4"/>
   
   <project name="poky" path="poky" remote="poky" revision="krogoth"/>
+  <project name="meta-virtualization" path="meta-virtualization" remote="poky" revision="krogoth"/>
   <project name="meta-qt5/meta-qt5" path="meta-qt5" remote="github" revision="krogoth"/>
   <project name="linux4sam/meta-atmel" path="meta-atmel" remote="github" revision="krogoth"/>
   <project name="openembedded/meta-openembedded" path="meta-openembedded" remote="github" revision="krogoth"/>
